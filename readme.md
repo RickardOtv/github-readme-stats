@@ -4,6 +4,8 @@
   <p>Get dynamically generated GitHub stats on your READMEs!</p>
 </div>
 
+Forked so that i can have it running on vercel
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats/actions">
     <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
